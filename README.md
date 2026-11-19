@@ -43,4 +43,5 @@ actionPerformed() untuk menangani tombol Simpan dan Reset.
 
 ## Screenshot Aplikasi
 
-![Tampilan Aplikasi](screenshot/tampilan_form.png)
+![Tampilan Aplikasi](screenshot/tampilan.png)
+
